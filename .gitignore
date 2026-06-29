@@ -1,0 +1,12 @@
+# Database
+data/*.db
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Models (optional)
+models/*.pkl
